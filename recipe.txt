@@ -3,3 +3,4 @@ vegetables
 chicken
 barley
 potatoes
+tomatoes
